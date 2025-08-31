@@ -11,6 +11,7 @@ A simple password generator built with React, TypeScript, and Vite.
 
 ## Getting Started
 
+
 ### Install dependencies
 
 ```sh
